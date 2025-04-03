@@ -1,0 +1,26 @@
+
+2025-04-03 01:18:40,392 - INFO - 2025-04-03 01:17:56,375 - ERROR - Error al conectar a la base de datos: No module named 'mysql'Conexión a la base de datos establecida correctamente.
+2025-04-03 01:18:40,395 - INFO - Archivo data/departments.csv leído exitosamente.
+2025-04-03 01:18:40,396 - INFO - Archivo data/categories.csv leído exitosamente.
+2025-04-03 01:18:40,412 - INFO - Archivo data/customers.csv leído exitosamente.
+2025-04-03 01:18:40,420 - INFO - Archivo data/products.csv leído exitosamente.
+2025-04-03 01:18:40,454 - INFO - Archivo data/orders.csv leído exitosamente.
+2025-04-03 01:18:40,537 - INFO - Archivo data/order_items.csv leído exitosamente.
+2025-04-03 01:18:40,556 - INFO - Recalculando order_item_subtotal.
+2025-04-03 01:18:40,561 - ERROR - Error al cargar datos en la tabla departments: (MySQLdb.OperationalError) (2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-04-03 01:20:27,251 - INFO - Conexión a la base de datos establecida correctamente.
+2025-04-03 01:20:27,253 - INFO - Archivo data/departments.csv leído exitosamente.
+2025-04-03 01:20:27,255 - INFO - Archivo data/categories.csv leído exitosamente.
+2025-04-03 01:20:27,268 - INFO - Archivo data/customers.csv leído exitosamente.
+2025-04-03 01:20:27,275 - INFO - Archivo data/products.csv leído exitosamente.
+2025-04-03 01:20:27,301 - INFO - Archivo data/orders.csv leído exitosamente.
+2025-04-03 01:20:27,365 - INFO - Archivo data/order_items.csv leído exitosamente.
+2025-04-03 01:20:27,381 - INFO - Recalculando order_item_subtotal.
+2025-04-03 01:20:27,425 - INFO - Datos cargados exitosamente en la tabla departments.
+2025-04-03 01:20:27,431 - INFO - Datos cargados exitosamente en la tabla categories.
+2025-04-03 01:20:27,920 - INFO - Datos cargados exitosamente en la tabla customers.
+2025-04-03 01:20:28,026 - INFO - Datos cargados exitosamente en la tabla products.
+2025-04-03 01:20:29,998 - INFO - Datos cargados exitosamente en la tabla orders.
+2025-04-03 01:20:35,530 - INFO - Datos cargados exitosamente en la tabla order_items.
+2025-04-03 01:20:35,530 - INFO - Pipeline de datos ejecutado exitosamente.
